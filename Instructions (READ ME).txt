@@ -1,0 +1,8 @@
+To run the game, the python pygame module must be installed:
+
+1.Install python IDLE, version 3.4 This can be done on the python website. https://www.python.org/downloads/release/python-3410/
+
+2.Once IDLE is successfully downloaded, install pygame: https://www.pygame.org/download.shtml
+	How to install: https://www.pygame.org/wiki/GettingStarted
+
+3. Once everything is installed, double click the file with (run me) to start the game.
